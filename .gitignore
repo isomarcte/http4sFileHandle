@@ -1,0 +1,4 @@
+.ensime*
+target/
+out/
+in/
